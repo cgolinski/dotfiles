@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = cgolinski
+	email = cgolinski@users.noreply.github.com
+[pager]
+	branch = false
+	log = false
+[credential]
+	helper = osxkeychain
